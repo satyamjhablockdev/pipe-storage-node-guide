@@ -110,7 +110,7 @@ cd pipe
 This step compiles the Rust code and installs the Pipe CLI tool:
 
 ```bash
-cargo install --path .
+cargo install --path
 ```
 
 **What this does**: 
